@@ -2,8 +2,8 @@
 - 👀 I’m interested in puzzle design
 - 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ... talk to me
+- ⚡ Fun fact: they call me the barnacle
 
 <!---
 felicaamiko/felicaamiko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
